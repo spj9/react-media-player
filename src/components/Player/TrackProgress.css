@@ -1,0 +1,25 @@
+.progress-outline {
+  border: 2px solid white;
+  border-radius: 1rem;
+  height: 1rem;
+  width: 80%;
+}
+
+.progress {
+  background-color: white;
+  border-radius: 1rem;
+  height: 100%;
+  width: 26%;
+}
+
+p {
+  color: white;
+  font-family: 'Inter';
+}
+
+.track-progress {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}

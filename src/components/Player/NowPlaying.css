@@ -1,0 +1,30 @@
+.info p {
+  font-size: 1rem;
+  color: white;
+}
+
+.info * {
+  font-family: 'Inter';
+}
+
+.info {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.info h6 {
+  color: lightgrey;
+  font-size: 1.5rem;
+}
+
+.now-playing {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+span {
+  color: white;
+}

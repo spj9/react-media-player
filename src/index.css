@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(38, 37, 49);
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+}
+
+section {
+  width: 50vw;
+  height: calc(100vh - 6rem);
+}
